@@ -10,6 +10,7 @@ import src.tdi.training.java.core.model.Mahasiswa;
 
 public class MainApp{
     public static void main(String[] args){
+        /*
         //soal nomor 1 dan 2
         Map<String, String> mahasiswa = new HashMap<>();
         mahasiswa.put("001", "Muhamad Yusuf");
@@ -41,6 +42,7 @@ public class MainApp{
             }
         }
         System.out.println();
+        */
         //soal nomor 6
         Kelas IF = new Kelas("IF", 2014, "Informatika");
         Kelas SI = new Kelas("AB", 2013, "AAAAABBBBB");
